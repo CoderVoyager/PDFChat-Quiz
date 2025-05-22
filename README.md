@@ -84,13 +84,5 @@ PDF AI Assistant & Quiz Generator is a Streamlit-based application that allows u
 3. **Chat**: Questions are matched with chunks and answered by Gemini.
 4. **Quiz Generation**: Gemini creates MCQs based on extracted content.
 
----
 
-## 🙏 Acknowledgements
-
-* Google Gemini
-* Streamlit
-* LangChain
-* FAISS
-* PyPDF2
 
