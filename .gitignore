@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# FAISS index files
+faiss_index/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Local development settings
+.idea/
+.DS_Store
+app.py
